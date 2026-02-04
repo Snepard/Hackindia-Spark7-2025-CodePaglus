@@ -105,7 +105,7 @@ npm run dev
 👨‍💻 Yugal – Full Stack Dev & Blockchain Engineer
 👨‍💻 Aryan Balodi – Backend Developer
 👨‍💻 Aryan Singh – Frontend Developer & UI Designer
-👩‍💻 Sakshi Saini – Frontend Developer
+👩‍💻 Sakshi Saini – Frontend Developer & UI Designer
 
 
 🧠 Special thanks to HackIndia 2025 and Telos for the inspiration and infrastructure.
